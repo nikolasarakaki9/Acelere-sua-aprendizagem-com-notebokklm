@@ -1,4 +1,4 @@
----Markdown
+```Markdown
 
 O projeto foi voltado para criacão de um agente no notebooklm sobre investimento pegando de 3 a 5 fontes para usar como referência de dado, 
 sendo instruido pelo mentor Felipe Aguiar da Digital Inovation. O material escolhido para serem as fontes de dados serão utilizados para
@@ -8,7 +8,7 @@ O intuito é usar a IA como ferramenta auxiliar para ajudar no pensamento críti
 
 Segue abaixo o modelo criado pelo NotebookLM e as fontes que foram utilizadas. 
 
----
+```
 
 
 
