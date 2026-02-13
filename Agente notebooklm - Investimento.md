@@ -11,5 +11,6 @@ Segue abaixo o modelo criado pelo NotebookLM e as fontes que foram utilizadas.
 ###---
 
 
+
 ![Documento](Documento/E-book-Criptomoedas-Guia.pdf)
 ![Documento](Documento/imagem.png)
