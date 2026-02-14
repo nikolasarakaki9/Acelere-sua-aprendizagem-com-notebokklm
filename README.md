@@ -22,7 +22,7 @@ Segue abaixo o modelo criado pelo NotebookLMcomoprint das perguntas e respostas 
 
 
 ![Documento](Documento/imagem.png)
-
+![(E-book-Criptomoedas-Guia.pdf)](E-book-Criptomoedas-Guia.pdf)
 
 Aqui eu comecei perguntando sobre as melhores criptomoedas 
 para o ano de 2026, aquelas mais promissoras.
@@ -31,10 +31,16 @@ para o ano de 2026, aquelas mais promissoras.
 
 ![Imagem3](Imagem3.png)
 
+
 ![Imagem4](Imagem4.png)
 
 Aqui a pergunta foi refente a guardar criptomoeda em pendrive e se possui algum risco de perder o que tá ali caso queime o pendrive ou se acontecer qualquer coisa ruim com ele.
 
 ![Pendrive](Pendrive.png)
+
+continuação e finalização das perguntas.
+
+
+![pend1](Pend1.png)
 
 
