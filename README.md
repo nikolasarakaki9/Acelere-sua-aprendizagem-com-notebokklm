@@ -22,7 +22,7 @@ Segue abaixo o modelo criado pelo NotebookLMcomoprint das perguntas e respostas 
 
 
 ![Documento](Documento/imagem.png)
-![(E-book-Criptomoedas-Guia.pdf)](E-book-Criptomoedas-Guia.pdf)
+
 
 Aqui eu comecei perguntando sobre as melhores criptomoedas 
 para o ano de 2026, aquelas mais promissoras.
