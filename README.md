@@ -33,6 +33,6 @@ para o ano de 2026, aquelas mais promissoras.
 
 Aqui a pergunta foi refente a guardar criptomoeda em pendrive e se possui algum risco de perder o que tá ali caso queime o pendrive ou se acontecer qualquer coisa ruim com ele.
 
-![pendrive](pendrive.png)
+![Pendrive](Pendrive.png)
 
 
