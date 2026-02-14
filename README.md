@@ -43,4 +43,6 @@ continuação e finalização das perguntas.
 
 ![pend1](Pend1.png)
 
-
+como conclusão o notebooklm pode ser usado para criar vários agentes em assuntos determinados pelo usuário
+ajudando em estudos, compreendendo assuntos complexos em prompts simples. assim, economizando muito tempo com pesquisas.
+O tempo deve ser voltado para procurar boas fomtes de dados porque o notebooklm trabalha com dados. podendo escolher em videos, ebook (pdf), áudio, texto copiado, imagem e sites.quanto melhor as fontes melhor será a resposta gerada pelo o agente.
