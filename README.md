@@ -3,6 +3,8 @@
 # Projeto da Digital Inovation One - Criação de agente com notebooklm
 🏔️☁️
 
+agente de criptomoedas - Informações e imvestimento 💰💲🏦
+
 O projeto foi voltado para criacão de um agente no notebooklm
 sobre investimento pegando de 3 a 5 fontes para usar
 como referência de dado, sendo instruido pelo mentor
