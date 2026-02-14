@@ -14,15 +14,12 @@ com a preferência do usuário.
 O intuito é usar a IA como ferramenta auxiliar para ajudar
 no pensamento crítico e organizando o conhecimento.
 
-Segue abaixo o modelo criado pelo NotebookLM e as fontes
-que foram utilizadas. 
+Segue abaixo o modelo criado pelo NotebookLMcomoprint das perguntas e respostas gerado por esse agente.
 
 ```
 
 
 
-
-!Documento](Documento/imagem.png)
 [Documento](Documento/imagem.png)
 ![Documento](Documento/imagem.png)
 
