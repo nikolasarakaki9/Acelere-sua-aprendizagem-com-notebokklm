@@ -21,5 +21,5 @@ que foram utilizadas.
 
 
 
-![Documento](Documento/E-book-Criptomoedas-Guia.pdf)
+
 ![Documento](Documento/imagem.png)
