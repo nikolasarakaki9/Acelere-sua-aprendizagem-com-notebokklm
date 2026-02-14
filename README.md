@@ -26,6 +26,7 @@ Segue abaixo o modelo criado pelo NotebookLMcomoprint das perguntas e respostas 
 
 Aqui eu comecei perguntando sobre as melhores criptomoedas 
 para o ano de 2026, aquelas mais promissoras.
+
 ![Documento](Documento/Imagem2.png)
 
 
