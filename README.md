@@ -19,8 +19,6 @@ Segue abaixo o modelo criado pelo NotebookLMcomoprint das perguntas e respostas 
 ```
 
 
-
-
 ![Documento](Documento/imagem.png)
 
 
@@ -30,5 +28,13 @@ para o ano de 2026, aquelas mais promissoras.
 ![Documento](Documento/Imagem2.png)
 
 ![Imagem3](Imagem3.png)
+
+![Imagem4](Imagem4.png)
+
+Aqui a pergunta foi refente a guardar criptomoeda em pendrive e se possui algum risco de perder o que tá ali caso queime o pendrive ou se acontecer qualquer coisa ruim com ele.
+
+
+
+![Ima3](Imagem3.png)
 
 
