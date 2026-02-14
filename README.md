@@ -20,11 +20,13 @@ Segue abaixo o modelo criado pelo NotebookLMcomoprint das perguntas e respostas 
 
 
 
-[Documento](Documento/imagem.png)
+
 ![Documento](Documento/imagem.png)
 
 
-
+Aqui eu comecei perguntando sobre as melhores criptomoedas 
+para o ano de 2026, aquelas mais promissoras.
+![Documento](Documento/imagem2.png)
 
 
 
